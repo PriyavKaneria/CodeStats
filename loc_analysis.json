@@ -45,5 +45,110 @@
             ".css": 59,
             ".svelte": 2844
         }
+    },
+    "BlogAnywhere": {
+        "total_files": 15,
+        "total_lines": 408,
+        "total_blanks": 30,
+        "total_comments": 30,
+        "total_lines_of_code": 348,
+        "boilerplate_lines": 21,
+        "actual_code_lines": 327,
+        "language_distribution": {
+            ".js": 65,
+            ".md": 4,
+            ".ts": 108,
+            ".css": 3,
+            ".html": 12,
+            ".svelte": 216
+        }
+    },
+    "FinalYearProject": {
+        "total_files": 108,
+        "total_lines": 5492,
+        "total_blanks": 425,
+        "total_comments": 172,
+        "total_lines_of_code": 4895,
+        "boilerplate_lines": 243,
+        "actual_code_lines": 4652,
+        "language_distribution": {
+            ".py": 2870,
+            ".html": 154,
+            ".md": 70,
+            ".txt": 108,
+            ".js": 88,
+            ".ts": 580,
+            ".css": 60,
+            ".svelte": 1562
+        }
+    },
+    "NCC-Paper-Generator": {
+        "total_files": 9,
+        "total_lines": 2144,
+        "total_blanks": 259,
+        "total_comments": 292,
+        "total_lines_of_code": 1593,
+        "boilerplate_lines": 21,
+        "actual_code_lines": 1572,
+        "language_distribution": {
+            ".py": 2092,
+            ".md": 30,
+            ".txt": 22
+        }
+    },
+    "202020-Eyesafe-Project": {
+        "total_files": 7,
+        "total_lines": 183,
+        "total_blanks": 35,
+        "total_comments": 24,
+        "total_lines_of_code": 124,
+        "boilerplate_lines": 11,
+        "actual_code_lines": 113,
+        "language_distribution": {
+            ".py": 116,
+            ".md": 66,
+            ".txt": 1
+        }
+    },
+    "SeriesPatternArtwork": {
+        "total_files": 2,
+        "total_lines": 302,
+        "total_blanks": 47,
+        "total_comments": 29,
+        "total_lines_of_code": 226,
+        "boilerplate_lines": 2,
+        "actual_code_lines": 224,
+        "language_distribution": {
+            ".py": 266,
+            ".md": 36
+        }
+    },
+    "Rannect": {
+        "total_files": 9,
+        "total_lines": 1873,
+        "total_blanks": 137,
+        "total_comments": 105,
+        "total_lines_of_code": 1631,
+        "boilerplate_lines": 6,
+        "actual_code_lines": 1625,
+        "language_distribution": {
+            ".md": 34,
+            ".js": 885,
+            ".css": 949,
+            ".txt": 5
+        }
+    },
+    "CodeStats": {
+        "total_files": 4,
+        "total_lines": 297,
+        "total_blanks": 39,
+        "total_comments": 38,
+        "total_lines_of_code": 220,
+        "boilerplate_lines": 12,
+        "actual_code_lines": 208,
+        "language_distribution": {
+            ".py": 293,
+            ".md": 4
+        }
     }
 }

@@ -48,5 +48,10 @@
 		"source": "github",
 		"path": "PriyavKaneria/CodeStats",
 		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/NeuralCalculus",
+		"ignore": []
 	}
 ]
