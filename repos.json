@@ -13,5 +13,40 @@
 		"source": "github",
 		"path": "PriyavKaneria/AutoDJ",
 		"ignore": ["librosa", "polymath"]
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/BlogAnywhere",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/FinalYearProject",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/NCC-Paper-Generator",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/202020-Eyesafe-Project",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/SeriesPatternArtwork",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Rannect",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/CodeStats",
+		"ignore": []
 	}
 ]
