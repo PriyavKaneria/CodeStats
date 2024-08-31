@@ -1,0 +1,17 @@
+[
+	{
+		"source": "github",
+		"path": "PriyavKaneria/LocalLock",
+		"ignore": []
+	},
+	{
+		"source": "gitlab",
+		"path": "PriyavKaneria/atman",
+		"ignore": ["checkpoints"]
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/AutoDJ",
+		"ignore": ["librosa", "polymath"]
+	}
+]

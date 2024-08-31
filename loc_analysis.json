@@ -1,0 +1,222 @@
+{
+    "projects": [
+        {
+            "source": "github/PriyavKaneria/LocalLock",
+            "total_files": 72,
+            "total_lines": 4606,
+            "total_blanks": 346,
+            "total_comments": 42,
+            "total_lines_of_code": 4218,
+            "languages": [
+                {
+                    "language": "JavaScript",
+                    "files": 17,
+                    "lines": 1860,
+                    "blanks": 109,
+                    "comments": 20,
+                    "linesOfCode": 1731
+                },
+                {
+                    "language": "JSON",
+                    "files": 7,
+                    "lines": 181,
+                    "blanks": 2,
+                    "comments": 0,
+                    "linesOfCode": 179
+                },
+                {
+                    "language": "Plain Text",
+                    "files": 7,
+                    "lines": 22,
+                    "blanks": 9,
+                    "comments": 0,
+                    "linesOfCode": 13
+                },
+                {
+                    "language": "Markdown",
+                    "files": 2,
+                    "lines": 149,
+                    "blanks": 47,
+                    "comments": 0,
+                    "linesOfCode": 102
+                },
+                {
+                    "language": "Makefile",
+                    "files": 1,
+                    "lines": 8,
+                    "blanks": 2,
+                    "comments": 0,
+                    "linesOfCode": 6
+                },
+                {
+                    "language": "Patch",
+                    "files": 1,
+                    "lines": 67,
+                    "blanks": 2,
+                    "comments": 0,
+                    "linesOfCode": 65
+                },
+                {
+                    "language": "gitignore",
+                    "files": 1,
+                    "lines": 16,
+                    "blanks": 2,
+                    "comments": 1,
+                    "linesOfCode": 13
+                },
+                {
+                    "language": "Total",
+                    "files": 36,
+                    "lines": 2303,
+                    "blanks": 173,
+                    "comments": 21,
+                    "linesOfCode": 2109
+                }
+            ]
+        },
+        {
+            "source": "github/PriyavKaneria/AutoDJ",
+            "total_files": 164,
+            "total_lines": 18784,
+            "total_blanks": 636,
+            "total_comments": 650,
+            "total_lines_of_code": 17498,
+            "languages": [
+                {
+                    "language": "Python",
+                    "files": 28,
+                    "lines": 3402,
+                    "blanks": 202,
+                    "comments": 252,
+                    "linesOfCode": 2948
+                },
+                {
+                    "language": "TypeScript",
+                    "files": 27,
+                    "lines": 694,
+                    "blanks": 59,
+                    "comments": 24,
+                    "linesOfCode": 611
+                },
+                {
+                    "language": "JSON",
+                    "files": 6,
+                    "lines": 4595,
+                    "blanks": 0,
+                    "comments": 0,
+                    "linesOfCode": 4595
+                },
+                {
+                    "language": "gitignore",
+                    "files": 4,
+                    "lines": 22,
+                    "blanks": 0,
+                    "comments": 0,
+                    "linesOfCode": 22
+                },
+                {
+                    "language": "JavaScript",
+                    "files": 3,
+                    "lines": 123,
+                    "blanks": 5,
+                    "comments": 39,
+                    "linesOfCode": 79
+                },
+                {
+                    "language": "HTML",
+                    "files": 2,
+                    "lines": 164,
+                    "blanks": 12,
+                    "comments": 0,
+                    "linesOfCode": 152
+                },
+                {
+                    "language": "Makefile",
+                    "files": 2,
+                    "lines": 60,
+                    "blanks": 12,
+                    "comments": 3,
+                    "linesOfCode": 45
+                },
+                {
+                    "language": "Markdown",
+                    "files": 2,
+                    "lines": 100,
+                    "blanks": 23,
+                    "comments": 0,
+                    "linesOfCode": 77
+                },
+                {
+                    "language": "Patch",
+                    "files": 2,
+                    "lines": 26,
+                    "blanks": 0,
+                    "comments": 0,
+                    "linesOfCode": 26
+                },
+                {
+                    "language": "Plain Text",
+                    "files": 2,
+                    "lines": 110,
+                    "blanks": 0,
+                    "comments": 0,
+                    "linesOfCode": 110
+                },
+                {
+                    "language": "TypeScript Typings",
+                    "files": 2,
+                    "lines": 36,
+                    "blanks": 2,
+                    "comments": 7,
+                    "linesOfCode": 27
+                },
+                {
+                    "language": "CSS",
+                    "files": 1,
+                    "lines": 59,
+                    "blanks": 3,
+                    "comments": 0,
+                    "linesOfCode": 56
+                },
+                {
+                    "language": "SVG",
+                    "files": 1,
+                    "lines": 1,
+                    "blanks": 0,
+                    "comments": 0,
+                    "linesOfCode": 1
+                },
+                {
+                    "language": "Total",
+                    "files": 82,
+                    "lines": 9392,
+                    "blanks": 318,
+                    "comments": 325,
+                    "linesOfCode": 8749
+                }
+            ]
+        }
+    ],
+    "overall": {
+        "total_files": 236,
+        "total_lines": 23390,
+        "total_blanks": 982,
+        "total_comments": 692,
+        "total_lines_of_code": 21716,
+        "language_distribution": {
+            "JavaScript": 1810,
+            "JSON": 4774,
+            "Plain Text": 123,
+            "Markdown": 179,
+            "Makefile": 51,
+            "Patch": 91,
+            "gitignore": 35,
+            "Python": 2948,
+            "TypeScript": 611,
+            "HTML": 152,
+            "TypeScript Typings": 27,
+            "CSS": 56,
+            "SVG": 1
+        }
+    }
+}
