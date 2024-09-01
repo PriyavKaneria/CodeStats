@@ -1,10 +1,5 @@
 [
 	{
-		"source": "github",
-		"path": "PriyavKaneria/LocalLock",
-		"ignore": []
-	},
-	{
 		"source": "gitlab",
 		"path": "PriyavKaneria/atman",
 		"ignore": ["checkpoints"]
@@ -13,6 +8,141 @@
 		"source": "github",
 		"path": "PriyavKaneria/AutoDJ",
 		"ignore": ["librosa", "polymath"]
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Rannect",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/1to50-Game-Hack",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/202020-Eyesafe-Project",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Anonymously-New",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Binod-Merchandise",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/CodeStats",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Conways-Game-of-Life-using-Rust-WASM",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Cyber-Security-WebDev",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Dev-Assist",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Python-mini-games",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Cyber-Security-WebDev",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/YogaGuru-WebDev",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/SOS-safeOsecure",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/protectHER",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Schedule-It",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Dr.Vincent",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/E-Cell-Motivational-Calculator",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/E-Cell-Products-display",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Elm-Todo-App",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/experiments-with-game-of-life",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/FastAPI-ToDo-List-application",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/HITnROLL",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Laptop-cursor-speed",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/LocalLock",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Microsoft-Auth-Tutorial",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/Ordocorp",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "PriyavKaneria/NeuralCalculus",
+		"ignore": []
 	},
 	{
 		"source": "github",
@@ -26,32 +156,67 @@
 	},
 	{
 		"source": "github",
+		"path": "PriyavKaneria/PureML",
+		"ignore": [],
+		"contributer": true
+	},
+	{
+		"source": "github",
 		"path": "PriyavKaneria/NCC-Paper-Generator",
 		"ignore": []
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/202020-Eyesafe-Project",
+		"path": "PriyavKaneria/Portfolio",
 		"ignore": []
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/SeriesPatternArtwork",
+		"path": "PriyavKaneria/E-Cell-Website",
 		"ignore": []
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/Rannect",
+		"path": "PriyavKaneria/Culrav2022",
 		"ignore": []
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/CodeStats",
+		"path": "PriyavKaneria/Webster2021",
 		"ignore": []
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/NeuralCalculus",
+		"path": "PriyavKaneria/SYMB-Assignment-Website",
 		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "Collabrush/collabrush",
+		"ignore": [],
+		"contributer": true
+	},
+	{
+		"source": "github",
+		"path": "DuP-491/Avishkar",
+		"ignore": [],
+		"contributer": true
+	},
+	{
+		"source": "github",
+		"path": "TEDxMNNIT/TEDxMNNIT.github.io",
+		"ignore": [],
+		"contributer": true
+	},
+	{
+		"source": "github",
+		"path": "potehtoT-Internal/potehtoT-Backend",
+		"ignore": []
+	},
+	{
+		"source": "github",
+		"path": "HopeChainHQ/HopeChain",
+		"ignore": [],
+		"contributer": true
 	}
 ]

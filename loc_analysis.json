@@ -1,61 +1,459 @@
 {
-    "LocalLock": {
-        "total_files": 26,
-        "total_lines": 2031,
-        "total_blanks": 165,
-        "total_comments": 42,
-        "total_lines_of_code": 1824,
-        "boilerplate_lines": 70,
-        "actual_code_lines": 1754,
-        "language_distribution": {
-            ".js": 1860,
-            ".md": 149,
-            ".txt": 22
-        }
-    },
     "atman": {
-        "total_files": 15,
-        "total_lines": 1462,
+        "total_files": 16,
+        "total_lines": 1466,
         "total_blanks": 219,
         "total_comments": 217,
-        "total_lines_of_code": 1026,
+        "total_lines_of_code": 1030,
         "boilerplate_lines": 12,
-        "actual_code_lines": 1014,
+        "actual_code_lines": 1018,
         "language_distribution": {
             ".py": 1432,
+            ".json": 4,
             ".md": 2,
             ".txt": 28
         }
     },
     "AutoDJ": {
-        "total_files": 131,
-        "total_lines": 7532,
+        "total_files": 138,
+        "total_lines": 12158,
         "total_blanks": 628,
-        "total_comments": 369,
-        "total_lines_of_code": 6535,
+        "total_comments": 375,
+        "total_lines_of_code": 11155,
         "boilerplate_lines": 316,
-        "actual_code_lines": 6219,
+        "actual_code_lines": 10839,
         "language_distribution": {
             ".py": 3402,
             ".html": 164,
             ".md": 100,
             ".txt": 110,
+            ".json": 4595,
+            ".cjs": 31,
             ".js": 123,
             ".ts": 730,
             ".css": 59,
             ".svelte": 2844
         }
     },
-    "BlogAnywhere": {
+    "Rannect": {
+        "total_files": 77,
+        "total_lines": 8628,
+        "total_blanks": 1056,
+        "total_comments": 630,
+        "total_lines_of_code": 6942,
+        "boilerplate_lines": 44,
+        "actual_code_lines": 6898,
+        "language_distribution": {
+            ".md": 34,
+            ".json": 1198,
+            ".js": 885,
+            ".css": 949,
+            ".ex": 4649,
+            ".heex": 908,
+            ".txt": 5
+        }
+    },
+    "1to50-Game-Hack": {
+        "total_files": 4,
+        "total_lines": 177,
+        "total_blanks": 26,
+        "total_comments": 21,
+        "total_lines_of_code": 130,
+        "boilerplate_lines": 6,
+        "actual_code_lines": 124,
+        "language_distribution": {
+            ".py": 133,
+            ".txt": 1,
+            ".md": 43
+        }
+    },
+    "202020-Eyesafe-Project": {
+        "total_files": 8,
+        "total_lines": 224,
+        "total_blanks": 40,
+        "total_comments": 32,
+        "total_lines_of_code": 152,
+        "boilerplate_lines": 15,
+        "actual_code_lines": 137,
+        "language_distribution": {
+            ".pyw": 41,
+            ".py": 116,
+            ".md": 66,
+            ".txt": 1
+        }
+    },
+    "Anonymously-New": {
         "total_files": 15,
-        "total_lines": 408,
+        "total_lines": 1054,
+        "total_blanks": 102,
+        "total_comments": 42,
+        "total_lines_of_code": 910,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 910,
+        "language_distribution": {
+            ".html": 243,
+            ".md": 224,
+            ".css": 382,
+            ".js": 205
+        }
+    },
+    "Binod-Merchandise": {
+        "total_files": 26,
+        "total_lines": 17046,
+        "total_blanks": 112,
+        "total_comments": 25,
+        "total_lines_of_code": 16909,
+        "boilerplate_lines": 32,
+        "actual_code_lines": 16877,
+        "language_distribution": {
+            ".md": 72,
+            ".py": 112,
+            ".json": 16075,
+            ".html": 43,
+            ".txt": 3,
+            ".css": 390,
+            ".js": 351
+        }
+    },
+    "CodeStats": {
+        "total_files": 6,
+        "total_lines": 398,
+        "total_blanks": 39,
+        "total_comments": 38,
+        "total_lines_of_code": 321,
+        "boilerplate_lines": 12,
+        "actual_code_lines": 309,
+        "language_distribution": {
+            ".py": 293,
+            ".json": 101,
+            ".md": 4
+        }
+    },
+    "Conways-Game-of-Life-using-Rust-WASM": {
+        "total_files": 10,
+        "total_lines": 861,
+        "total_blanks": 126,
+        "total_comments": 95,
+        "total_lines_of_code": 640,
+        "boilerplate_lines": 2,
+        "actual_code_lines": 638,
+        "language_distribution": {
+            ".toml": 20,
+            ".html": 46,
+            ".js": 495,
+            ".md": 51,
+            ".ts": 104,
+            ".json": 22,
+            ".rs": 123
+        }
+    },
+    "Cyber-Security-WebDev": {
+        "total_files": 51,
+        "total_lines": 6246,
+        "total_blanks": 624,
+        "total_comments": 196,
+        "total_lines_of_code": 5426,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 5426,
+        "language_distribution": {
+            ".css": 2066,
+            ".js": 2339,
+            ".html": 1317,
+            ".md": 13,
+            ".less": 112,
+            ".scss": 392,
+            ".pug": 7
+        }
+    },
+    "Dev-Assist": {
+        "total_files": 23,
+        "total_lines": 17762,
+        "total_blanks": 69,
+        "total_comments": 54,
+        "total_lines_of_code": 17639,
+        "boilerplate_lines": 31,
+        "actual_code_lines": 17608,
+        "language_distribution": {
+            ".py": 46,
+            ".json": 17140,
+            ".md": 8,
+            ".txt": 8,
+            ".html": 53,
+            ".js": 286,
+            ".css": 221
+        }
+    },
+    "Python-mini-games": {
+        "total_files": 9,
+        "total_lines": 1216,
+        "total_blanks": 138,
+        "total_comments": 57,
+        "total_lines_of_code": 1021,
+        "boilerplate_lines": 26,
+        "actual_code_lines": 995,
+        "language_distribution": {
+            ".md": 10,
+            ".py": 1206
+        }
+    },
+    "YogaGuru-WebDev": {
+        "total_files": 111,
+        "total_lines": 46460,
+        "total_blanks": 6075,
+        "total_comments": 1793,
+        "total_lines_of_code": 38592,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 38592,
+        "language_distribution": {
+            ".css": 24473,
+            ".js": 18432,
+            ".html": 1246,
+            ".md": 65,
+            ".scss": 2244
+        }
+    },
+    "SOS-safeOsecure": {
+        "total_files": 14,
+        "total_lines": 17072,
+        "total_blanks": 64,
+        "total_comments": 27,
+        "total_lines_of_code": 16981,
+        "boilerplate_lines": 19,
+        "actual_code_lines": 16962,
+        "language_distribution": {
+            ".json": 16486,
+            ".md": 70,
+            ".html": 43,
+            ".txt": 3,
+            ".css": 173,
+            ".js": 297
+        }
+    },
+    "protectHER": {
+        "total_files": 15,
+        "total_lines": 17760,
+        "total_blanks": 67,
+        "total_comments": 29,
+        "total_lines_of_code": 17664,
+        "boilerplate_lines": 25,
+        "actual_code_lines": 17639,
+        "language_distribution": {
+            ".json": 17017,
+            ".md": 70,
+            ".html": 43,
+            ".txt": 3,
+            ".css": 169,
+            ".js": 458
+        }
+    },
+    "Schedule-It": {
+        "total_files": 3,
+        "total_lines": 930,
+        "total_blanks": 83,
+        "total_comments": 18,
+        "total_lines_of_code": 829,
+        "boilerplate_lines": 6,
+        "actual_code_lines": 823,
+        "language_distribution": {
+            ".txt": 1,
+            ".py": 904,
+            ".md": 25
+        }
+    },
+    "Dr.Vincent": {
+        "total_files": 1,
+        "total_lines": 83,
+        "total_blanks": 11,
+        "total_comments": 12,
+        "total_lines_of_code": 60,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 60,
+        "language_distribution": {
+            ".md": 83
+        }
+    },
+    "E-Cell-Motivational-Calculator": {
+        "total_files": 15,
+        "total_lines": 428,
+        "total_blanks": 35,
+        "total_comments": 31,
+        "total_lines_of_code": 362,
+        "boilerplate_lines": 15,
+        "actual_code_lines": 347,
+        "language_distribution": {
+            ".json": 64,
+            ".md": 2,
+            ".html": 43,
+            ".txt": 3,
+            ".css": 130,
+            ".js": 186
+        }
+    },
+    "E-Cell-Products-display": {
+        "total_files": 3,
+        "total_lines": 350,
+        "total_blanks": 4,
+        "total_comments": 2,
+        "total_lines_of_code": 344,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 344,
+        "language_distribution": {
+            ".html": 76,
+            ".md": 2,
+            ".css": 272
+        }
+    },
+    "Elm-Todo-App": {
+        "total_files": 7,
+        "total_lines": 9614,
+        "total_blanks": 948,
+        "total_comments": 216,
+        "total_lines_of_code": 8450,
+        "boilerplate_lines": 7,
+        "actual_code_lines": 8443,
+        "language_distribution": {
+            ".js": 8765,
+            ".json": 493,
+            ".html": 17,
+            ".md": 2,
+            ".elm": 337
+        }
+    },
+    "experiments-with-game-of-life": {
+        "total_files": 19,
+        "total_lines": 8746,
+        "total_blanks": 245,
+        "total_comments": 88,
+        "total_lines_of_code": 8413,
+        "boilerplate_lines": 39,
+        "actual_code_lines": 8374,
+        "language_distribution": {
+            ".html": 14,
+            ".json": 6134,
+            ".js": 14,
+            ".md": 17,
+            ".ts": 28,
+            ".tsx": 2516,
+            ".css": 23
+        }
+    },
+    "FastAPI-ToDo-List-application": {
+        "total_files": 4,
+        "total_lines": 97,
+        "total_blanks": 5,
+        "total_comments": 3,
+        "total_lines_of_code": 89,
+        "boilerplate_lines": 1,
+        "actual_code_lines": 88,
+        "language_distribution": {
+            ".md": 5,
+            ".json": 1,
+            ".py": 38,
+            ".html": 53
+        }
+    },
+    "HITnROLL": {
+        "total_files": 2,
+        "total_lines": 167,
+        "total_blanks": 0,
+        "total_comments": 3,
+        "total_lines_of_code": 164,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 164,
+        "language_distribution": {
+            ".md": 2,
+            ".html": 165
+        }
+    },
+    "Laptop-cursor-speed": {
+        "total_files": 4,
+        "total_lines": 265,
+        "total_blanks": 34,
+        "total_comments": 19,
+        "total_lines_of_code": 212,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 212,
+        "language_distribution": {
+            ".html": 93,
+            ".js": 121,
+            ".md": 24,
+            ".css": 27
+        }
+    },
+    "LocalLock": {
+        "total_files": 32,
+        "total_lines": 2208,
+        "total_blanks": 167,
+        "total_comments": 44,
+        "total_lines_of_code": 1997,
+        "boilerplate_lines": 70,
+        "actual_code_lines": 1927,
+        "language_distribution": {
+            ".js": 1860,
+            ".json": 177,
+            ".md": 149,
+            ".txt": 22
+        }
+    },
+    "Microsoft-Auth-Tutorial": {
+        "total_files": 8,
+        "total_lines": 221,
+        "total_blanks": 19,
+        "total_comments": 12,
+        "total_lines_of_code": 190,
+        "boilerplate_lines": 2,
+        "actual_code_lines": 188,
+        "language_distribution": {
+            ".md": 5,
+            ".py": 129,
+            ".html": 87
+        }
+    },
+    "Ordocorp": {
+        "total_files": 164,
+        "total_lines": 50831,
+        "total_blanks": 6417,
+        "total_comments": 3026,
+        "total_lines_of_code": 41388,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 41388,
+        "language_distribution": {
+            ".html": 3831,
+            ".md": 54,
+            ".css": 23886,
+            ".txt": 1,
+            ".scss": 11862,
+            ".js": 11197
+        }
+    },
+    "NeuralCalculus": {
+        "total_files": 47,
+        "total_lines": 1408,
+        "total_blanks": 321,
+        "total_comments": 127,
+        "total_lines_of_code": 960,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 960,
+        "language_distribution": {
+            ".html": 156,
+            ".md": 878,
+            ".yml": 323,
+            ".rb": 14,
+            ".scss": 37
+        }
+    },
+    "BlogAnywhere": {
+        "total_files": 19,
+        "total_lines": 4865,
         "total_blanks": 30,
-        "total_comments": 30,
-        "total_lines_of_code": 348,
+        "total_comments": 35,
+        "total_lines_of_code": 4800,
         "boilerplate_lines": 21,
-        "actual_code_lines": 327,
+        "actual_code_lines": 4779,
         "language_distribution": {
             ".js": 65,
+            ".toml": 3,
+            ".json": 4454,
             ".md": 4,
             ".ts": 108,
             ".css": 3,
@@ -64,91 +462,241 @@
         }
     },
     "FinalYearProject": {
-        "total_files": 108,
-        "total_lines": 5492,
+        "total_files": 115,
+        "total_lines": 10108,
         "total_blanks": 425,
-        "total_comments": 172,
-        "total_lines_of_code": 4895,
+        "total_comments": 178,
+        "total_lines_of_code": 9505,
         "boilerplate_lines": 243,
-        "actual_code_lines": 4652,
+        "actual_code_lines": 9262,
         "language_distribution": {
             ".py": 2870,
             ".html": 154,
             ".md": 70,
             ".txt": 108,
+            ".json": 4585,
+            ".cjs": 31,
             ".js": 88,
             ".ts": 580,
             ".css": 60,
             ".svelte": 1562
         }
     },
+    "PureML": {
+        "total_files": 1543,
+        "total_lines": 130223,
+        "total_blanks": 10813,
+        "total_comments": 5265,
+        "total_lines_of_code": 114145,
+        "boilerplate_lines": 1791,
+        "actual_code_lines": 112354,
+        "language_distribution": {
+            ".md": 1256,
+            ".json": 39854,
+            ".yml": 123,
+            ".ts": 5231,
+            ".js": 995,
+            ".tsx": 776,
+            ".mdx": 722,
+            ".css": 36,
+            ".go": 39512,
+            ".yaml": 3546,
+            ".html": 1347,
+            ".txt": 775,
+            ".toml": 380,
+            ".py": 25601,
+            ".cjs": 44,
+            ".svelte": 10025
+        }
+    },
     "NCC-Paper-Generator": {
-        "total_files": 9,
-        "total_lines": 2144,
+        "total_files": 10,
+        "total_lines": 2147,
         "total_blanks": 259,
         "total_comments": 292,
-        "total_lines_of_code": 1593,
+        "total_lines_of_code": 1596,
         "boilerplate_lines": 21,
-        "actual_code_lines": 1572,
+        "actual_code_lines": 1575,
         "language_distribution": {
             ".py": 2092,
             ".md": 30,
-            ".txt": 22
+            ".txt": 22,
+            ".json": 3
         }
     },
-    "202020-Eyesafe-Project": {
-        "total_files": 7,
-        "total_lines": 183,
-        "total_blanks": 35,
-        "total_comments": 24,
-        "total_lines_of_code": 124,
-        "boilerplate_lines": 11,
-        "actual_code_lines": 113,
+    "Portfolio": {
+        "total_files": 39,
+        "total_lines": 4111,
+        "total_blanks": 292,
+        "total_comments": 54,
+        "total_lines_of_code": 3765,
+        "boilerplate_lines": 260,
+        "actual_code_lines": 3505,
         "language_distribution": {
-            ".py": 116,
-            ".md": 66,
-            ".txt": 1
+            ".json": 71,
+            ".md": 3,
+            ".html": 47,
+            ".txt": 3,
+            ".js": 2226,
+            ".css": 1761
         }
     },
-    "SeriesPatternArtwork": {
-        "total_files": 2,
-        "total_lines": 302,
-        "total_blanks": 47,
-        "total_comments": 29,
-        "total_lines_of_code": 226,
-        "boilerplate_lines": 2,
-        "actual_code_lines": 224,
+    "E-Cell-Website": {
+        "total_files": 62,
+        "total_lines": 20886,
+        "total_blanks": 198,
+        "total_comments": 139,
+        "total_lines_of_code": 20549,
+        "boilerplate_lines": 174,
+        "actual_code_lines": 20375,
         "language_distribution": {
-            ".py": 266,
-            ".md": 36
+            ".js": 244,
+            ".json": 17124,
+            ".md": 70,
+            ".html": 360,
+            ".txt": 3,
+            ".jsx": 2950,
+            ".css": 135
         }
     },
-    "Rannect": {
-        "total_files": 9,
-        "total_lines": 1873,
-        "total_blanks": 137,
-        "total_comments": 105,
-        "total_lines_of_code": 1631,
-        "boilerplate_lines": 6,
-        "actual_code_lines": 1625,
+    "Culrav2022": {
+        "total_files": 249,
+        "total_lines": 101006,
+        "total_blanks": 10086,
+        "total_comments": 11608,
+        "total_lines_of_code": 79312,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 79312,
         "language_distribution": {
+            ".php": 6210,
+            ".html": 37489,
+            ".css": 42791,
+            ".txt": 20,
+            ".js": 14496
+        }
+    },
+    "Webster2021": {
+        "total_files": 38,
+        "total_lines": 4176,
+        "total_blanks": 218,
+        "total_comments": 156,
+        "total_lines_of_code": 3802,
+        "boilerplate_lines": 110,
+        "actual_code_lines": 3692,
+        "language_distribution": {
+            ".json": 37,
+            ".js": 3449,
+            ".md": 17,
+            ".py": 376,
+            ".txt": 5,
+            ".css": 292
+        }
+    },
+    "SYMB-Assignment-Website": {
+        "total_files": 3,
+        "total_lines": 418,
+        "total_blanks": 7,
+        "total_comments": 1,
+        "total_lines_of_code": 410,
+        "boilerplate_lines": 0,
+        "actual_code_lines": 410,
+        "language_distribution": {
+            ".html": 114,
+            ".md": 2,
+            ".css": 302
+        }
+    },
+    "collabrush": {
+        "total_files": 37,
+        "total_lines": 7671,
+        "total_blanks": 795,
+        "total_comments": 135,
+        "total_lines_of_code": 6741,
+        "boilerplate_lines": 85,
+        "actual_code_lines": 6656,
+        "language_distribution": {
+            ".json": 90,
+            ".js": 38,
+            ".yaml": 4011,
             ".md": 34,
-            ".js": 885,
-            ".css": 949,
-            ".txt": 5
+            ".ts": 264,
+            ".tsx": 2844,
+            ".css": 390
         }
     },
-    "CodeStats": {
-        "total_files": 4,
-        "total_lines": 297,
-        "total_blanks": 39,
-        "total_comments": 38,
-        "total_lines_of_code": 220,
-        "boilerplate_lines": 12,
-        "actual_code_lines": 208,
+    "Avishkar": {
+        "total_files": 134,
+        "total_lines": 44598,
+        "total_blanks": 1118,
+        "total_comments": 505,
+        "total_lines_of_code": 42975,
+        "boilerplate_lines": 572,
+        "actual_code_lines": 42403,
         "language_distribution": {
-            ".py": 293,
-            ".md": 4
+            ".json": 23951,
+            ".md": 576,
+            ".ts": 3637,
+            ".js": 31,
+            ".html": 70,
+            ".txt": 3,
+            ".css": 324,
+            ".tsx": 15777,
+            ".py": 229
+        }
+    },
+    "TEDxMNNIT.github.io": {
+        "total_files": 57,
+        "total_lines": 118134,
+        "total_blanks": 13253,
+        "total_comments": 1761,
+        "total_lines_of_code": 103120,
+        "boilerplate_lines": 1,
+        "actual_code_lines": 103119,
+        "language_distribution": {
+            ".txt": 67,
+            ".html": 9237,
+            ".md": 2,
+            ".css": 53063,
+            ".xml": 2,
+            ".json": 1578,
+            ".js": 54144,
+            ".php": 41
+        }
+    },
+    "potehtoT-Backend": {
+        "total_files": 9,
+        "total_lines": 164,
+        "total_blanks": 17,
+        "total_comments": 35,
+        "total_lines_of_code": 112,
+        "boilerplate_lines": 10,
+        "actual_code_lines": 102,
+        "language_distribution": {
+            ".py": 145,
+            ".json": 19
+        }
+    },
+    "HopeChain": {
+        "total_files": 132,
+        "total_lines": 68229,
+        "total_blanks": 1895,
+        "total_comments": 611,
+        "total_lines_of_code": 65723,
+        "boilerplate_lines": 418,
+        "actual_code_lines": 65305,
+        "language_distribution": {
+            ".js": 3742,
+            ".json": 51811,
+            ".yaml": 8465,
+            ".md": 100,
+            ".toml": 4,
+            ".html": 40,
+            ".txt": 3,
+            ".css": 843,
+            ".jsx": 1700,
+            ".properties": 29,
+            ".kt": 1156,
+            ".xml": 336
         }
     }
 }

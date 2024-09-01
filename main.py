@@ -10,9 +10,10 @@ def main():
     with open("repos.json") as f:
         repos = json.load(f)
 
-    analyze_file_types = ['.py', '.js', '.java', '.c', '.cpp', '.cs', '.ts', '.html', '.css',
-                            '.sh', '.go', '.rs', '.php', '.svelte', '.md', '.txt', '.css', '.sh',
-                            '.sql', '.md', '.txt']
+    analyze_file_types = ['.jsx', '.rb', '.mdx', '.rs', '.json', '.xml', '.js', '.less',
+                           '.scss', '.md', '.go', '.elm', '.pyw', '.ts', '.yaml', '.toml',
+                             '.html', '.tsx', '.properties', '.py', '.php', '.kt', '.pug', 
+                             '.yml', '.cjs', '.heex', '.svelte', '.txt', '.css', '.ex']
 
     # get arguments and analyze or get data accordingly
     if len(sys.argv) > 1:

@@ -44,9 +44,10 @@ def clone_repo(repo_url):
     git.Repo.clone_from(repo_url, repo_dir)
     return repo_dir
 
-def count_lines(repo_dir: str, file_types : list[str] =['.py', '.js', '.java', '.c', '.cpp', '.cs', '.ts', '.html', '.css',
-                                    '.sh', '.go', '.rs', '.php', '.svelte', '.md', '.txt', '.css', '.sh',
-                                    '.sql', '.md', '.txt'], ignore_patterns : list[str]=None):
+def count_lines(repo_dir: str, file_types : list[str] = ['.jsx', '.rb', '.mdx', '.rs', '.json', '.xml', '.js', '.less',
+                                                            '.scss', '.md', '.go', '.elm', '.pyw', '.ts', '.yaml', '.toml',
+                                                            '.html', '.tsx', '.properties', '.py', '.php', '.kt', '.pug', 
+                                                            '.yml', '.cjs', '.heex', '.svelte', '.txt', '.css', '.ex'], ignore_patterns : list[str]=None):
     loc_data = {
         "total_files": 0,
         "total_lines": 0,
