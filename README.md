@@ -9,8 +9,7 @@ CLI Visualization
 ![visualization_screenshot](https://github.com/user-attachments/assets/ee704556-8767-4dbe-baa6-d8b55aeaeb14)
 
 Demo
-https://github.com/user-attachments/assets/2040aa75-929c-4267-b392-e32f0e81ea43
-
+![code_stats_demo](https://github.com/user-attachments/assets/0816a384-4c14-4a54-8630-6f6616ceb8eb)
 
 `loc_analysis.json`
 ```json5
