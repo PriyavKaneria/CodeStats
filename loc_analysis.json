@@ -12,6 +12,19 @@
             ".json": 4,
             ".md": 2,
             ".txt": 28
+        },
+        "description": "\u0906\u0924\u094d\u092e\u0928\u094d \u2022 \u0101tm\u00e1n \u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164\u3164A\u0332daptive T\u0332opological M\u0332uscle-A\u0332ctuated N\u0332etwork is a spatially aware neural network that tries to simulate how the human brain stores information",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 17,
+            "total_lines_changed": {
+                "additions": 1271,
+                "deletions": 670
+            },
+            "first_commit_date": "2024-07-21 15:18:05",
+            "last_commit_date": "2024-08-13 15:06:48",
+            "median_commit_size": 41
         }
     },
     "AutoDJ": {
@@ -33,6 +46,19 @@
             ".ts": 730,
             ".css": 59,
             ".svelte": 2844
+        },
+        "description": "Songs analyzed, recommended and mixed automatically",
+        "stars": 9,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 11,
+                "deletions": 1
+            },
+            "first_commit_date": "2024-07-28 01:56:15",
+            "last_commit_date": "2024-07-28 01:56:15",
+            "median_commit_size": 12
         }
     },
     "Rannect": {
@@ -51,6 +77,19 @@
             ".ex": 4649,
             ".heex": 908,
             ".txt": 5
+        },
+        "description": "Connect, Interact and Learn",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 36,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-12-25 18:03:14",
+            "last_commit_date": "2023-03-19 13:22:56",
+            "median_commit_size": 18.0
         }
     },
     "1to50-Game-Hack": {
@@ -65,6 +104,24 @@
             ".py": 133,
             ".txt": 1,
             ".md": 43
+        },
+        "description": "A python project to finish the 1 to 50 Game within 2 secs \ud83d\ude0e using Tesseract OCR engine",
+        "stars": 6,
+        "topics": [
+            "tesseract-ocr-engine",
+            "ocr",
+            "game",
+            "hack"
+        ],
+        "contributions": {
+            "total_commits": 8,
+            "total_lines_changed": {
+                "additions": 224,
+                "deletions": 0
+            },
+            "first_commit_date": "2020-09-28 11:18:39",
+            "last_commit_date": "2021-04-22 17:08:09",
+            "median_commit_size": 13.0
         }
     },
     "202020-Eyesafe-Project": {
@@ -80,6 +137,23 @@
             ".py": 116,
             ".md": 66,
             ".txt": 1
+        },
+        "description": "A python project which can be used to safeguard our eyes by making us watch 20m away for 20s each 20min",
+        "stars": 2,
+        "topics": [
+            "hacktoberfest",
+            "python",
+            "safety"
+        ],
+        "contributions": {
+            "total_commits": 14,
+            "total_lines_changed": {
+                "additions": 828,
+                "deletions": 49
+            },
+            "first_commit_date": "2020-11-14 12:16:36",
+            "last_commit_date": "2023-10-28 11:38:26",
+            "median_commit_size": 29.5
         }
     },
     "Anonymously-New": {
@@ -95,6 +169,23 @@
             ".md": 224,
             ".css": 382,
             ".js": 205
+        },
+        "description": null,
+        "stars": 2,
+        "topics": [
+            "hacktoberfest",
+            "hacktoberfest-accepted",
+            "hacktoberfest2022"
+        ],
+        "contributions": {
+            "total_commits": 8,
+            "total_lines_changed": {
+                "additions": 497,
+                "deletions": 41
+            },
+            "first_commit_date": "2021-03-11 15:28:40",
+            "last_commit_date": "2023-10-28 10:57:33",
+            "median_commit_size": 41.0
         }
     },
     "Binod-Merchandise": {
@@ -113,20 +204,46 @@
             ".txt": 3,
             ".css": 390,
             ".js": 351
+        },
+        "description": "Website made for E-Cell Web team selection",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 5,
+            "total_lines_changed": {
+                "additions": 28678,
+                "deletions": 1
+            },
+            "first_commit_date": "2021-05-25 17:19:32",
+            "last_commit_date": "2021-05-25 17:27:05",
+            "median_commit_size": 158
         }
     },
     "CodeStats": {
-        "total_files": 6,
-        "total_lines": 398,
+        "total_files": 7,
+        "total_lines": 4395,
         "total_blanks": 39,
         "total_comments": 38,
-        "total_lines_of_code": 321,
+        "total_lines_of_code": 4318,
         "boilerplate_lines": 12,
-        "actual_code_lines": 309,
+        "actual_code_lines": 4306,
         "language_distribution": {
-            ".py": 293,
-            ".json": 101,
+            ".py": 295,
+            ".json": 4096,
             ".md": 4
+        },
+        "description": "A quick project to calculate and analyze stats for all my github, gitlab, local projects",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 185,
+                "deletions": 0
+            },
+            "first_commit_date": "2024-08-31 16:05:04",
+            "last_commit_date": "2024-08-31 16:05:04",
+            "median_commit_size": 185
         }
     },
     "Conways-Game-of-Life-using-Rust-WASM": {
@@ -145,6 +262,26 @@
             ".ts": 104,
             ".json": 22,
             ".rs": 123
+        },
+        "description": "Conway's Game of Life implementation using Rust and WASM (with added paint cells feature)",
+        "stars": 1,
+        "topics": [
+            "conways-game-of-life",
+            "paint",
+            "rust",
+            "wasm",
+            "wasm-bindgen",
+            "wasm-pack"
+        ],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 3,
+                "deletions": 3
+            },
+            "first_commit_date": "2024-08-26 19:45:20",
+            "last_commit_date": "2024-08-27 00:54:37",
+            "median_commit_size": 3.0
         }
     },
     "Cyber-Security-WebDev": {
@@ -163,6 +300,24 @@
             ".less": 112,
             ".scss": 392,
             ".pug": 7
+        },
+        "description": "Project submission for Google Web-Rangers",
+        "stars": 1,
+        "topics": [
+            "html5",
+            "css3",
+            "javascript",
+            "jquery"
+        ],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 6870,
+                "deletions": 2
+            },
+            "first_commit_date": "2020-05-15 11:41:05",
+            "last_commit_date": "2020-05-15 12:15:58",
+            "median_commit_size": 15
         }
     },
     "Dev-Assist": {
@@ -181,6 +336,19 @@
             ".html": 53,
             ".js": 286,
             ".css": 221
+        },
+        "description": "TreeHacks2021",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 29,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-02-13 09:03:15",
+            "last_commit_date": "2021-02-16 13:59:39",
+            "median_commit_size": 14.5
         }
     },
     "Python-mini-games": {
@@ -194,6 +362,22 @@
         "language_distribution": {
             ".md": 10,
             ".py": 1206
+        },
+        "description": "Games made by me in 2018 using Python Language.",
+        "stars": 1,
+        "topics": [
+            "python3",
+            "python-library"
+        ],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 1216,
+                "deletions": 0
+            },
+            "first_commit_date": "2020-04-16 16:10:07",
+            "last_commit_date": "2020-04-16 16:16:38",
+            "median_commit_size": 608.0
         }
     },
     "YogaGuru-WebDev": {
@@ -210,6 +394,19 @@
             ".html": 1246,
             ".md": 65,
             ".scss": 2244
+        },
+        "description": "Simple Web-app made for school Web Designing Competition",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 4,
+            "total_lines_changed": {
+                "additions": 47215,
+                "deletions": 0
+            },
+            "first_commit_date": "2020-06-16 23:27:00",
+            "last_commit_date": "2020-06-27 15:33:37",
+            "median_commit_size": 8800.0
         }
     },
     "SOS-safeOsecure": {
@@ -227,6 +424,19 @@
             ".txt": 3,
             ".css": 173,
             ".js": 297
+        },
+        "description": "Hack36 project under theme Women Safety by team The_Debuggers",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "protectHER": {
@@ -244,6 +454,19 @@
             ".txt": 3,
             ".css": 169,
             ".js": 458
+        },
+        "description": "Hack36 project under theme Women Safety by team The_Debuggers",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 2
+            },
+            "first_commit_date": "2021-04-10 21:30:54",
+            "last_commit_date": "2021-04-10 21:30:54",
+            "median_commit_size": 2
         }
     },
     "Schedule-It": {
@@ -258,6 +481,19 @@
             ".txt": 1,
             ".py": 904,
             ".md": 25
+        },
+        "description": "A simple python project made for easy and ideal scheduling of time for students in school/college",
+        "stars": 2,
+        "topics": [],
+        "contributions": {
+            "total_commits": 5,
+            "total_lines_changed": {
+                "additions": 931,
+                "deletions": 1
+            },
+            "first_commit_date": "2020-07-15 11:38:30",
+            "last_commit_date": "2021-04-23 10:37:40",
+            "median_commit_size": 4
         }
     },
     "Dr.Vincent": {
@@ -270,6 +506,19 @@
         "actual_code_lines": 60,
         "language_distribution": {
             ".md": 83
+        },
+        "description": null,
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "E-Cell-Motivational-Calculator": {
@@ -287,6 +536,24 @@
             ".txt": 3,
             ".css": 130,
             ".js": 186
+        },
+        "description": "Motivational Calculator project",
+        "stars": 0,
+        "topics": [
+            "react",
+            "motivational-quotes",
+            "calculator",
+            "hacktoberfest"
+        ],
+        "contributions": {
+            "total_commits": 5,
+            "total_lines_changed": {
+                "additions": 607,
+                "deletions": 140
+            },
+            "first_commit_date": "2021-10-15 15:35:05",
+            "last_commit_date": "2021-10-15 16:41:57",
+            "median_commit_size": 201
         }
     },
     "E-Cell-Products-display": {
@@ -301,6 +568,19 @@
             ".html": 76,
             ".md": 2,
             ".css": 272
+        },
+        "description": "E-Cell Web Team Task 1 - Products Display",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 551,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-05-25 22:21:19",
+            "last_commit_date": "2021-05-25 22:22:14",
+            "median_commit_size": 275.5
         }
     },
     "Elm-Todo-App": {
@@ -317,6 +597,19 @@
             ".html": 17,
             ".md": 2,
             ".elm": 337
+        },
+        "description": "A simple ToDo App created for learning Elm",
+        "stars": 2,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 207,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-04-03 15:16:23",
+            "last_commit_date": "2021-04-03 15:16:23",
+            "median_commit_size": 207
         }
     },
     "experiments-with-game-of-life": {
@@ -335,6 +628,25 @@
             ".ts": 28,
             ".tsx": 2516,
             ".css": 23
+        },
+        "description": "Experiments on Conway's game of life. wip",
+        "stars": 1,
+        "topics": [
+            "conways-game-of-life",
+            "experiments",
+            "isometric",
+            "rust",
+            "wasm"
+        ],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 257,
+                "deletions": 2
+            },
+            "first_commit_date": "2024-08-15 15:17:34",
+            "last_commit_date": "2024-08-19 12:04:43",
+            "median_commit_size": 51
         }
     },
     "FastAPI-ToDo-List-application": {
@@ -350,6 +662,19 @@
             ".json": 1,
             ".py": 38,
             ".html": 53
+        },
+        "description": "A sample application for implementing To Do list in python using FastAPI",
+        "stars": 2,
+        "topics": [],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 26,
+                "deletions": 0
+            },
+            "first_commit_date": "2020-12-19 10:20:46",
+            "last_commit_date": "2021-02-04 22:20:57",
+            "median_commit_size": 3
         }
     },
     "HITnROLL": {
@@ -363,6 +688,19 @@
         "language_distribution": {
             ".md": 2,
             ".html": 165
+        },
+        "description": "My very first commercial android mobile game",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 4,
+            "total_lines_changed": {
+                "additions": 369,
+                "deletions": 1
+            },
+            "first_commit_date": "2021-05-01 00:16:15",
+            "last_commit_date": "2021-05-01 00:41:01",
+            "median_commit_size": 83.5
         }
     },
     "Laptop-cursor-speed": {
@@ -378,21 +716,55 @@
             ".js": 121,
             ".md": 24,
             ".css": 27
+        },
+        "description": "Laptop (using trackpad) cursor speed on the edge",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 23,
+                "deletions": 0
+            },
+            "first_commit_date": "2023-06-09 10:08:37",
+            "last_commit_date": "2023-06-09 10:08:37",
+            "median_commit_size": 23
         }
     },
     "LocalLock": {
-        "total_files": 32,
-        "total_lines": 2208,
+        "total_files": 33,
+        "total_lines": 2212,
         "total_blanks": 167,
         "total_comments": 44,
-        "total_lines_of_code": 1997,
+        "total_lines_of_code": 2001,
         "boilerplate_lines": 70,
-        "actual_code_lines": 1927,
+        "actual_code_lines": 1931,
         "language_distribution": {
             ".js": 1860,
-            ".json": 177,
+            ".json": 181,
             ".md": 149,
             ".txt": 22
+        },
+        "description": "An Android app with the only goal of being a secure, locked, no-third party, completely local open source password saving app",
+        "stars": 31,
+        "topics": [
+            "android",
+            "android-application",
+            "android-development",
+            "expo",
+            "password-manager",
+            "playstore",
+            "react-native"
+        ],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 93,
+                "deletions": 20
+            },
+            "first_commit_date": "2024-02-18 23:16:47",
+            "last_commit_date": "2024-04-05 13:27:19",
+            "median_commit_size": 28
         }
     },
     "Microsoft-Auth-Tutorial": {
@@ -407,6 +779,19 @@
             ".md": 5,
             ".py": 129,
             ".html": 87
+        },
+        "description": "Code for Medium article on building web app with Microsoft OAuth 2.0 and using Microsoft Graph API for accessing services",
+        "stars": 4,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 23,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-01-31 11:48:50",
+            "last_commit_date": "2021-01-31 11:48:50",
+            "median_commit_size": 23
         }
     },
     "Ordocorp": {
@@ -424,22 +809,48 @@
             ".txt": 1,
             ".scss": 11862,
             ".js": 11197
+        },
+        "description": "Organ Donation Corporation - A website based on organ donation made for web-designing competition in 2019",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 5,
+            "total_lines_changed": {
+                "additions": 55934,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-04-22 10:50:23",
+            "last_commit_date": "2021-04-22 11:01:53",
+            "median_commit_size": 9566
         }
     },
     "NeuralCalculus": {
-        "total_files": 47,
-        "total_lines": 1408,
-        "total_blanks": 321,
-        "total_comments": 127,
-        "total_lines_of_code": 960,
+        "total_files": 49,
+        "total_lines": 1472,
+        "total_blanks": 337,
+        "total_comments": 135,
+        "total_lines_of_code": 1000,
         "boilerplate_lines": 0,
-        "actual_code_lines": 960,
+        "actual_code_lines": 1000,
         "language_distribution": {
             ".html": 156,
-            ".md": 878,
+            ".md": 942,
             ".yml": 323,
             ".rb": 14,
             ".scss": 37
+        },
+        "description": "Blog where I occasionally write some of the many thoughts I have every moment",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 572,
+                "deletions": 0
+            },
+            "first_commit_date": "2023-04-06 23:51:36",
+            "last_commit_date": "2024-08-15 02:14:59",
+            "median_commit_size": 27
         }
     },
     "BlogAnywhere": {
@@ -459,6 +870,19 @@
             ".css": 3,
             ".html": 12,
             ".svelte": 216
+        },
+        "description": "Simple web based markdown edit, preview and commit to github",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 4,
+            "total_lines_changed": {
+                "additions": 64,
+                "deletions": 64
+            },
+            "first_commit_date": "2024-07-20 23:09:14",
+            "last_commit_date": "2024-07-21 01:07:55",
+            "median_commit_size": 32.0
         }
     },
     "FinalYearProject": {
@@ -480,33 +904,86 @@
             ".ts": 580,
             ".css": 60,
             ".svelte": 1562
+        },
+        "description": "Using AI for Generation of Functional Music to Improve Mental Health",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "PureML": {
-        "total_files": 1543,
-        "total_lines": 130223,
-        "total_blanks": 10813,
-        "total_comments": 5265,
-        "total_lines_of_code": 114145,
-        "boilerplate_lines": 1791,
-        "actual_code_lines": 112354,
+        "total_files": 1358,
+        "total_lines": 111346,
+        "total_blanks": 11531,
+        "total_comments": 5856,
+        "total_lines_of_code": 93959,
+        "boilerplate_lines": 2018,
+        "actual_code_lines": 91941,
         "language_distribution": {
-            ".md": 1256,
-            ".json": 39854,
-            ".yml": 123,
-            ".ts": 5231,
-            ".js": 995,
-            ".tsx": 776,
-            ".mdx": 722,
-            ".css": 36,
-            ".go": 39512,
-            ".yaml": 3546,
-            ".html": 1347,
-            ".txt": 775,
-            ".toml": 380,
-            ".py": 25601,
+            ".md": 1233,
+            ".json": 9606,
+            ".yml": 100,
+            ".tsx": 19,
+            ".go": 36642,
+            ".yaml": 2998,
+            ".html": 1302,
+            ".txt": 445,
+            ".css": 3,
+            ".js": 369,
+            ".toml": 621,
+            ".py": 23697,
             ".cjs": 44,
-            ".svelte": 10025
+            ".ts": 5457,
+            ".svelte": 14885,
+            ".rs": 13925
+        },
+        "description": "Unnamed repository; edit this file 'description' to name the repository.",
+        "contributions": {
+            "total_commits": 130,
+            "total_lines_changed": {
+                "additions": 342117,
+                "deletions": 111555
+            },
+            "first_commit_date": "2023-01-04 16:27:52",
+            "last_commit_date": "2024-05-27 14:53:43",
+            "median_commit_size": 333.0
+        }
+    },
+    "EngageML-App": {
+        "total_files": 101,
+        "total_lines": 27645,
+        "total_blanks": 1780,
+        "total_comments": 2154,
+        "total_lines_of_code": 23711,
+        "boilerplate_lines": 315,
+        "actual_code_lines": 23396,
+        "language_distribution": {
+            ".js": 2715,
+            ".json": 135,
+            ".ts": 797,
+            ".yaml": 10390,
+            ".md": 122,
+            ".tsx": 13247,
+            ".css": 239
+        },
+        "description": "Unnamed repository; edit this file 'description' to name the repository.",
+        "contributions": {
+            "total_commits": 4,
+            "total_lines_changed": {
+                "additions": 1762,
+                "deletions": 1255
+            },
+            "first_commit_date": "2022-02-15 19:22:15",
+            "last_commit_date": "2022-06-24 21:46:16",
+            "median_commit_size": 230.0
         }
     },
     "NCC-Paper-Generator": {
@@ -522,6 +999,19 @@
             ".md": 30,
             ".txt": 22,
             ".json": 3
+        },
+        "description": "NCC Paper Generator",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 134,
+                "deletions": 1
+            },
+            "first_commit_date": "2022-10-31 12:09:37",
+            "last_commit_date": "2022-11-01 16:18:18",
+            "median_commit_size": 67.5
         }
     },
     "Portfolio": {
@@ -539,6 +1029,19 @@
             ".txt": 3,
             ".js": 2226,
             ".css": 1761
+        },
+        "description": "My online Resume \ud83d\ude09",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 21,
+                "deletions": 0
+            },
+            "first_commit_date": "2021-03-06 16:09:01",
+            "last_commit_date": "2021-03-06 16:09:01",
+            "median_commit_size": 21
         }
     },
     "E-Cell-Website": {
@@ -557,6 +1060,19 @@
             ".txt": 3,
             ".jsx": 2950,
             ".css": 135
+        },
+        "description": "Official website for E-Cell MNNIT",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 189,
+                "deletions": 146
+            },
+            "first_commit_date": "2021-12-29 11:33:54",
+            "last_commit_date": "2021-12-29 11:33:54",
+            "median_commit_size": 335
         }
     },
     "Culrav2022": {
@@ -573,6 +1089,19 @@
             ".css": 42791,
             ".txt": 20,
             ".js": 14496
+        },
+        "description": "Culrav website 2022",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "Webster2021": {
@@ -590,6 +1119,19 @@
             ".py": 376,
             ".txt": 5,
             ".css": 292
+        },
+        "description": "cWuzzle - An online crossword making, playing and sharing game",
+        "stars": 2,
+        "topics": [],
+        "contributions": {
+            "total_commits": 3,
+            "total_lines_changed": {
+                "additions": 249,
+                "deletions": 48
+            },
+            "first_commit_date": "2021-10-12 10:18:13",
+            "last_commit_date": "2022-01-16 23:16:48",
+            "median_commit_size": 90
         }
     },
     "SYMB-Assignment-Website": {
@@ -604,6 +1146,19 @@
             ".html": 114,
             ".md": 2,
             ".css": 302
+        },
+        "description": "Website made as an assignment for internship at SYMB Technologies",
+        "stars": 1,
+        "topics": [],
+        "contributions": {
+            "total_commits": 4,
+            "total_lines_changed": {
+                "additions": 620,
+                "deletions": 1
+            },
+            "first_commit_date": "2021-05-06 14:06:56",
+            "last_commit_date": "2021-05-06 15:11:36",
+            "median_commit_size": 108.5
         }
     },
     "collabrush": {
@@ -622,6 +1177,19 @@
             ".ts": 264,
             ".tsx": 2844,
             ".css": 390
+        },
+        "description": null,
+        "stars": 4,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "Avishkar": {
@@ -642,6 +1210,19 @@
             ".css": 324,
             ".tsx": 15777,
             ".py": 229
+        },
+        "description": null,
+        "stars": 2,
+        "topics": [],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     },
     "TEDxMNNIT.github.io": {
@@ -661,6 +1242,19 @@
             ".json": 1578,
             ".js": 54144,
             ".php": 41
+        },
+        "description": "Repository for TEDxMNNIT",
+        "stars": 0,
+        "topics": [],
+        "contributions": {
+            "total_commits": 2,
+            "total_lines_changed": {
+                "additions": 2,
+                "deletions": 1
+            },
+            "first_commit_date": "2023-11-06 11:01:31",
+            "last_commit_date": "2023-11-15 22:43:13",
+            "median_commit_size": 1.5
         }
     },
     "potehtoT-Backend": {
@@ -674,6 +1268,17 @@
         "language_distribution": {
             ".py": 145,
             ".json": 19
+        },
+        "description": "Unnamed repository; edit this file 'description' to name the repository.",
+        "contributions": {
+            "total_commits": 1,
+            "total_lines_changed": {
+                "additions": 150,
+                "deletions": 0
+            },
+            "first_commit_date": "2022-04-16 22:26:19",
+            "last_commit_date": "2022-04-16 22:26:19",
+            "median_commit_size": 150
         }
     },
     "HopeChain": {
@@ -697,6 +1302,26 @@
             ".properties": 29,
             ".kt": 1156,
             ".xml": 336
+        },
+        "description": "A decentralized donations management platform to tackle the world's most intimidating disasters by providing funds quickly and transparently",
+        "stars": 2,
+        "topics": [
+            "blockchain",
+            "kotlin-android",
+            "reactjs",
+            "tailwindcss",
+            "hopechain",
+            "hopecoin"
+        ],
+        "contributions": {
+            "total_commits": 0,
+            "total_lines_changed": {
+                "additions": 0,
+                "deletions": 0
+            },
+            "first_commit_date": null,
+            "last_commit_date": null,
+            "median_commit_size": 0
         }
     }
 }

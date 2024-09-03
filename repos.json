@@ -156,9 +156,15 @@
 	},
 	{
 		"source": "github",
-		"path": "PriyavKaneria/PureML",
+		"path": "PuremlHQ/PureML",
 		"ignore": [],
-		"contributer": true
+		"contributor": true
+	},
+	{
+		"source": "github",
+		"path": "PuremlHQ/EngageML-App",
+		"ignore": [],
+		"contributor": true
 	},
 	{
 		"source": "github",
@@ -194,19 +200,19 @@
 		"source": "github",
 		"path": "Collabrush/collabrush",
 		"ignore": [],
-		"contributer": true
+		"contributor": true
 	},
 	{
 		"source": "github",
 		"path": "DuP-491/Avishkar",
 		"ignore": [],
-		"contributer": true
+		"contributor": true
 	},
 	{
 		"source": "github",
 		"path": "TEDxMNNIT/TEDxMNNIT.github.io",
 		"ignore": [],
-		"contributer": true
+		"contributor": true
 	},
 	{
 		"source": "github",
@@ -217,6 +223,6 @@
 		"source": "github",
 		"path": "HopeChainHQ/HopeChain",
 		"ignore": [],
-		"contributer": true
+		"contributor": true
 	}
 ]

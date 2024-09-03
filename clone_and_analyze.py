@@ -5,6 +5,8 @@ import shutil
 import re
 import json
 from dotenv import load_dotenv
+
+from contribution_analyze import get_author_contributions
 load_dotenv()
 
 import sys
@@ -14,6 +16,7 @@ import sys
 FORCE_CLONE = False
 
 # GitHub API Token
+USERNAME = os.getenv("GITHUB_USERNAME")
 GITHUB_API_TOKEN = os.getenv("GITHUB_ACCESS_TOKEN")
 
 # Initialize GitHub client
@@ -38,7 +41,7 @@ def clone_repo(repo_url):
     if os.path.exists(repo_dir):
         if FORCE_CLONE:
             # Remove existing directory
-            shutil.rmtree(repo_dir)
+            os.system('rmdir /S /Q "{}"'.format(repo_dir))
         else:
             return repo_dir
     git.Repo.clone_from(repo_url, repo_dir)
@@ -107,7 +110,25 @@ def analyze_repos(repos, file_types):
         repo_dir = clone_repo("https://github.com/" + repo_path + ".git")
         ignore_patterns = repo_info.get("ignore")
         loc_data = count_lines(repo_dir, file_types, ignore_patterns)
+
+        # get other metadata
+        # description
+        try:
+            repo = g.get_repo(repo_path)
+            loc_data["description"] = repo.description
+            loc_data["stars"] = repo.stargazers_count
+            loc_data["topics"] = repo.get_topics()
+        except:
+            repo = git.Repo(f"./cloned_repos/{repo_name}.git")
+            loc_data["description"] = repo.description
+
+        # uncomment below line if you want to analyze contributions only if repo has "contributor" : true
+        # if "contributor" in repo_info and repo_info["contributor"]:
+        print("Analyzing contributions...")
+        contribution_data = get_author_contributions(f"{repo_name}.git", USERNAME)
+        loc_data["contributions"] = contribution_data
         results[repo_name] = loc_data
+        
     return results
 
 def get_unique_languages(repos):
