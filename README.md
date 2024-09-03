@@ -6,11 +6,14 @@ Clones the repositories, counts the lines of code, and calculates the stats.
 ## Output stats
 
 CLI Visualization
+![visualization_screenshot](https://github.com/user-attachments/assets/ee704556-8767-4dbe-baa6-d8b55aeaeb14)
 
 Demo
+https://github.com/user-attachments/assets/2040aa75-929c-4267-b392-e32f0e81ea43
+
 
 `loc_analysis.json`
-```json
+```json5
     "repo_name": {
         "total_files": "number",
         "total_lines": "number",
@@ -51,7 +54,7 @@ pip install -r requirements.txt
 
 Create a `repos.json` file in the root directory with the following structure:
 
-```json
+```json5
 [
     {
         "source": "github", // only github supported for now [local, gitlab to be added]
