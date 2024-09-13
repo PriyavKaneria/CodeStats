@@ -118,14 +118,18 @@ def analyze_repos(repos, file_types):
             loc_data["description"] = repo.description
             loc_data["stars"] = repo.stargazers_count
             loc_data["topics"] = repo.get_topics()
+            loc_data["private"] = repo.private
         except:
             repo = git.Repo(f"./cloned_repos/{repo_name}.git")
             loc_data["description"] = repo.description
 
+        loc_data["description"] = loc_data["description"].replace("\u3164", "") if loc_data["description"] else ""
+
         # uncomment below line if you want to analyze contributions only if repo has "contributor" : true
         # if "contributor" in repo_info and repo_info["contributor"]:
         print("Analyzing contributions...")
-        contribution_data = get_author_contributions(f"{repo_name}.git", USERNAME)
+        author = USERNAME if "contributor" in repo_info and repo_info["contributor"] else ""
+        contribution_data = get_author_contributions(f"{repo_name}.git", author)
         loc_data["contributions"] = contribution_data
         results[repo_name] = loc_data
         
