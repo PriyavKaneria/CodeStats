@@ -983,14 +983,14 @@
         },
         "description": "Unnamed repository; edit this file 'description' to name the repository.",
         "contributions": {
-            "total_commits": 130,
+            "total_commits": 498,
             "total_lines_changed": {
-                "additions": 342117,
-                "deletions": 111555
+                "additions": 755711,
+                "deletions": 448688
             },
             "first_commit_date": "2023-01-04 16:27:52",
             "last_commit_date": "2024-05-27 14:53:43",
-            "median_commit_size": 333.0
+            "median_commit_size": 192.0
         }
     },
     "EngageML-App": {
@@ -1012,14 +1012,14 @@
         },
         "description": "Unnamed repository; edit this file 'description' to name the repository.",
         "contributions": {
-            "total_commits": 4,
+            "total_commits": 76,
             "total_lines_changed": {
-                "additions": 1762,
-                "deletions": 1255
+                "additions": 90052,
+                "deletions": 45688
             },
-            "first_commit_date": "2022-02-15 19:22:15",
-            "last_commit_date": "2022-06-24 21:46:16",
-            "median_commit_size": 230.0
+            "first_commit_date": "2022-01-12 14:53:54",
+            "last_commit_date": "2022-06-27 22:28:26",
+            "median_commit_size": 269.0
         }
     },
     "NCC-Paper-Generator": {
@@ -1225,14 +1225,14 @@
         "topics": [],
         "private": false,
         "contributions": {
-            "total_commits": 0,
+            "total_commits": 16,
             "total_lines_changed": {
-                "additions": 0,
-                "deletions": 0
+                "additions": 9360,
+                "deletions": 4206
             },
-            "first_commit_date": null,
-            "last_commit_date": null,
-            "median_commit_size": 0
+            "first_commit_date": "2022-10-31 14:55:33",
+            "last_commit_date": "2022-11-11 15:59:39",
+            "median_commit_size": 458.0
         }
     },
     "Avishkar": {
@@ -1259,14 +1259,14 @@
         "topics": [],
         "private": false,
         "contributions": {
-            "total_commits": 0,
+            "total_commits": 91,
             "total_lines_changed": {
-                "additions": 0,
-                "deletions": 0
+                "additions": 51670,
+                "deletions": 16673
             },
-            "first_commit_date": null,
-            "last_commit_date": null,
-            "median_commit_size": 0
+            "first_commit_date": "2022-08-27 16:50:11",
+            "last_commit_date": "2022-10-31 22:58:57",
+            "median_commit_size": 212
         }
     },
     "TEDxMNNIT.github.io": {
@@ -1292,14 +1292,14 @@
         "topics": [],
         "private": false,
         "contributions": {
-            "total_commits": 2,
+            "total_commits": 12,
             "total_lines_changed": {
-                "additions": 2,
-                "deletions": 1
+                "additions": 4105,
+                "deletions": 2838
             },
-            "first_commit_date": "2023-11-06 11:01:31",
-            "last_commit_date": "2023-11-15 22:43:13",
-            "median_commit_size": 1.5
+            "first_commit_date": "2023-10-19 14:25:31",
+            "last_commit_date": "2023-12-25 19:11:48",
+            "median_commit_size": 135.5
         }
     },
     "potehtoT-Backend": {
@@ -1360,14 +1360,14 @@
         ],
         "private": false,
         "contributions": {
-            "total_commits": 0,
+            "total_commits": 23,
             "total_lines_changed": {
-                "additions": 0,
-                "deletions": 0
+                "additions": 98993,
+                "deletions": 29549
             },
-            "first_commit_date": null,
-            "last_commit_date": null,
-            "median_commit_size": 0
+            "first_commit_date": "2023-03-24 22:05:12",
+            "last_commit_date": "2023-03-26 05:56:42",
+            "median_commit_size": 730
         }
     }
 }

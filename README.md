@@ -68,6 +68,13 @@ Create a `repos.json` file in the root directory with the following structure:
 ]
 ```
 
+Set environment variables for the following:
+
+```env
+CONTRIBUTION_AUTHOR_NAMES={COMMA_SEPARATED_AUTHOR_NAMES}
+GITHUB_ACCESS_TOKEN={YOUR_GITHUB_ACCESS_TOKEN}
+```
+
 ### Run
 
 If you have cmake installed, you can use make commands to run the project

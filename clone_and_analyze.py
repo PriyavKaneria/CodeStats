@@ -16,7 +16,7 @@ import sys
 FORCE_CLONE = False
 
 # GitHub API Token
-USERNAME = os.getenv("GITHUB_USERNAME")
+AUTHORS = os.getenv("CONTRIBUTION_AUTHOR_NAMES")
 GITHUB_API_TOKEN = os.getenv("GITHUB_ACCESS_TOKEN")
 
 # Initialize GitHub client
@@ -128,7 +128,7 @@ def analyze_repos(repos, file_types):
         # uncomment below line if you want to analyze contributions only if repo has "contributor" : true
         # if "contributor" in repo_info and repo_info["contributor"]:
         print("Analyzing contributions...")
-        author = USERNAME if "contributor" in repo_info and repo_info["contributor"] else ""
+        author = AUTHORS.split(",") if "contributor" in repo_info and repo_info["contributor"] else [""]
         contribution_data = get_author_contributions(f"{repo_name}.git", author)
         loc_data["contributions"] = contribution_data
         results[repo_name] = loc_data

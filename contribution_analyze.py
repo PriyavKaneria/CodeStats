@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 import statistics
 
-def get_author_contributions(repo_name: str, author: str):
+def get_author_contributions(repo_name: str, author: list[str]):
     # Path to the cloned repo
     repo_path = f"./cloned_repos/{repo_name}"
     
